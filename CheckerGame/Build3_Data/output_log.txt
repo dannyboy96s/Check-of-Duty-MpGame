@@ -1,0 +1,130 @@
+Initialize engine version: 5.5.4f1 (8ffd0efd98b1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro M1000M (ID=0x13b1)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   8.2.1952.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.135 seconds
+Platform assembly: C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 7200x1350 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.385286 ms
+Initialize engine version: 5.5.4f1 (8ffd0efd98b1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro M1000M (ID=0x13b1)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   8.2.1952.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.018 seconds
+Platform assembly: C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Danny\ComputerNetworking\CheckerGame\CheckerGame\Build3_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 7200x1350 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3ad4 -> priority: 1 
+  Thread -> id: 5df4 -> priority: 1 
+<RI> Initialized touch support.
+UnloadTime: 3.213039 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 35f0 -> priority: 1 
+  Thread -> id: 18e8 -> priority: 1 
+Client:SWHO|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server:CWHO|dan|1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client:SCNN|dan
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client:SWHO|dan|
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server:CWHO|dacia|0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client:SCNN|dacia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client:SCNN|dacia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.138075 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 383.
+Total: 0.543210 ms (FindLiveObjects: 0.096790 ms CreateObjectMapping: 0.014222 ms MarkObjects: 0.392691 ms  DeleteObjects: 0.038321 ms)
+
+UnloadTime: 1.724445 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 0.835161 ms (FindLiveObjects: 0.117333 ms CreateObjectMapping: 0.018172 ms MarkObjects: 0.646716 ms  DeleteObjects: 0.049382 ms)
+
+Server:CMOV|2|2|3|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client:SMOV|2|2|3|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client:SMOV|2|2|3|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server:CMOV|2|2|3|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client:SMOV|2|2|3|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client:SMOV|2|2|3|3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
